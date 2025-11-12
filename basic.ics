@@ -1,0 +1,10 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:http://icalgen.yc.sg/?sub=Yash+test+&det=Yash+test++desc&tz=As
+ ia%2FCalcutta&allday=false&sd=Nov+13%2C+2025&st=9%3A00+AM&ed=Nov+13%2C+2025
+ &et=1%3A30+PM&venue=www.yash.com&isub=true&idt=true&iv=true&dl=1
+X-WR-TIMEZONE:UTC
+END:VCALENDAR
